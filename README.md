@@ -1,4 +1,4 @@
-# BookTor
+# BOOKTOR
 BOOKTOR  App Project  * Business Plan *
 University Project to apply the Business Mangment and planning for entrepreneurs Concepts 
 ---
